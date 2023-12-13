@@ -1,5 +1,3 @@
-# TP1-OrganizacionDelComputador
-
 Protección de información - Cifrado Playfair
 La protección de información consiste en convertir un mensaje original en otro de forma tal que éste
 sólo pueda ser recuperado por un grupo de personas a partir del mensaje codificado.
